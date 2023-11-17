@@ -13,7 +13,7 @@ const config = {
   favicon: "../favicon.ico",
   title: "qu0b Link Tree",
   description:
-    "Give your dApps, the wings of decentralised infrastructure with Spheron!",
+    "Hello Ethglobal"
   links: [
     {
       key: "official",
